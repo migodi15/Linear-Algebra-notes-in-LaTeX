@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/n8zmtYb/fondo-Games.png" alt="c"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgpCDY8/lat.png" alt="lat" border="0"></a>
 
 # First LaTeX Project: Copying Linear Algebra notes
 
