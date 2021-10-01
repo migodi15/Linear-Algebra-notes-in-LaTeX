@@ -10,7 +10,7 @@ LaTeX project created in 2018.
 <br>
 
 <h2 align="center">Hi 👋, I'm Mireia Gómez Diaz</h2>
-<h3 align="center">a fourth-year Mathematics student at the Universitat Autònoma de Barcelona.</h3>
+<h3 align="center">a fourth-year Mathematics student at Universitat Autònoma de Barcelona.</h3>
 
 - 🌱 I’m currently learning **Java.**
 
